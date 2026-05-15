@@ -10,12 +10,16 @@ Full-stack developer with three years of hands-on experience designing and imple
 - **AI / ML**: Computer vision (YOLO), transformer models (Whisper, MarianMT, Coqui-TTS), Hugging Face, LangChain, RAG, daily use of Claude and Copilot in development workflows
 
 ## SELECTED SOFTWARE PROJECTS
-- [ExpeGraph](https://github.com/GitTurtleDone/ExpeGraph) *Full-stack instrument data acquisition and analysis platform*	2024 – Present
+- **[ExpeGraph](https://github.com/GitTurtleDone/ExpeGraph)** *Full-stack instrument data acquisition and analysis platform*	2024 – Present
 •	Designed system architecture and PostgreSQL schema; implemented EF Core migrations.
-•	Wrote C# .NET CRUD and business-logic Web APIs; building TypeScript React frontend (MUI, React Hook Form). 
+•	Wrote C# .NET CRUD and business-logic Web APIs; building TypeScript React frontend (MUI, React Hook Form).
+- **[DisloDetect](https://github.com/GitTurtleDone/disloDetect)** — *Computer vision web app for semiconductor defect estimation*	2024  
+•	Trained and deployed a YOLO computer vision model to estimate dislocation densities; derived a novel mathematical relationship between bounding-box coordinates and defect density.
+•	Stack: Python (model training), Python/C# .NET API, React frontend, Docker; deployed to both AWS (S3 + Lambda) and Azure (Blob Storage + Function App + App Service) via GitHub Actions CI/CD; unit-tested with Moq.
+•	Published in [a peer-reviewed journal](https://onlinelibrary.wiley.com/doi/full/10.1002/pssb.202400439). Live demos: [AWS](https://dislodetect-1766191540.s3.ap-southeast-6.amazonaws.com/index.html)  •  [Azure](https://dislodetectstornz.z44.web.core.windows.net/)  •  GitHub
 
-- [BirdCLEF2026](https://github.com/GitTurtleDone/BirdCLEF2026) - a Kaggle competition on prediction of species from audio files recorded in the Amazon forest.
-- [Translai](https://github.com/GitTurtleDone/TransLai) — *Portable offline speech-to-speech translator across 17 languages*	2024 – 2025
+- **[BirdCLEF2026](https://github.com/GitTurtleDone/BirdCLEF2026)** — *a Kaggle competition on prediction of species from audio files recorded in the Amazon forest* April 2026 - current.  
+- **[Translai](https://github.com/GitTurtleDone/TransLai)** — *Portable offline speech-to-speech translator across 17 languages*	2024 – 2025  
 •	Designed and built a portable, offline translator using transformer-based models (whisper.cpp, MarianMT, Coqui-TTS).
 •	Selected and procured hardware; wrote a Python FastAPI backend and TypeScript React frontend. 
 <!--
