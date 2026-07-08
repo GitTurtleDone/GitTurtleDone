@@ -1,4 +1,4 @@
-## Hi there, I am Giang, a semiconductor processing engineer transitioning into AI Software Development 👋
+## Hi there, I am Giang, a semiconductor processing engineer transitioning into AI Software Development 
 Full-stack developer with three years of hands-on experience designing and implementing end-to-end web applications using C# / .NET, Python, TypeScript / React, and SQL databases, deployed to Azure and AWS via CI/CD. Published author in applied AI (computer vision) and a daily user of modern AI development tools. Engineering background with 15 years in semiconductor R&D, providing strong analytical foundations. Pivoting fully into product software development.
 
 ## TECHNICAL SKILLS
