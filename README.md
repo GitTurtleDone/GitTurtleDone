@@ -2,7 +2,7 @@
 Full-stack developer with three years of hands-on experience designing and implementing end-to-end web applications using C# / .NET, Python, TypeScript / React, and SQL databases, deployed to Azure and AWS via CI/CD. Published author in applied AI (computer vision) and a daily user of modern AI development tools. Engineering background with 15 years in semiconductor R&D, providing strong analytical foundations. Pivoting fully into product software development.
 
 ## TECHNICAL SKILLS
-- **Languages**: C#, TypeScript, JavaScript, Python, SQL, C, HTML, CSS
+- **Languages**: Python, TypeScript, JavaScript, SQL, C#, C, HTML, CSS
 - **Backend**: .NET, Web API, Entity Framework Core (migrations), FastAPI, Flask, Moq (unit testing)
 - **Frontend**: React, MUI, React Hook Form, Jinja2
 - **Databases**: PostgreSQL, MySQL, SQLite, schema design and migrations
